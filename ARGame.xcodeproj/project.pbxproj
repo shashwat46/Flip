@@ -7,19 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6B89B03D291565400046F059 /* 05.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 6B89B0352915653B0046F059 /* 05.usdz */; };
+		6B89B03E291565400046F059 /* 02.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 6B89B0362915653C0046F059 /* 02.usdz */; };
+		6B89B040291565400046F059 /* 08.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 6B89B0382915653D0046F059 /* 08.usdz */; };
+		6B89B041291565400046F059 /* 07.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 6B89B0392915653E0046F059 /* 07.usdz */; };
+		6B89B042291565400046F059 /* 03.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 6B89B03A2915653E0046F059 /* 03.usdz */; };
+		6B89B043291565400046F059 /* 01.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 6B89B03B2915653F0046F059 /* 01.usdz */; };
+		6B89B0462915742A0046F059 /* 06.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 6B89B0452915742A0046F059 /* 06.usdz */; };
+		6B89B048291574E40046F059 /* 04.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 6B89B047291574E40046F059 /* 04.usdz */; };
 		6BEC66CC291527CF00C19248 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BEC66CB291527CF00C19248 /* AppDelegate.swift */; };
 		6BEC66CE291527CF00C19248 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BEC66CD291527CF00C19248 /* ViewController.swift */; };
-		6BEC66D0291527CF00C19248 /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 6BEC66CF291527CF00C19248 /* Experience.rcproject */; };
 		6BEC66D3291527CF00C19248 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BEC66D1291527CF00C19248 /* Main.storyboard */; };
 		6BEC66D5291527D400C19248 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6BEC66D4291527D400C19248 /* Assets.xcassets */; };
 		6BEC66D8291527D400C19248 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BEC66D6291527D400C19248 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6B89B0352915653B0046F059 /* 05.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 05.usdz; sourceTree = "<group>"; };
+		6B89B0362915653C0046F059 /* 02.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 02.usdz; sourceTree = "<group>"; };
+		6B89B0382915653D0046F059 /* 08.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 08.usdz; sourceTree = "<group>"; };
+		6B89B0392915653E0046F059 /* 07.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 07.usdz; sourceTree = "<group>"; };
+		6B89B03A2915653E0046F059 /* 03.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 03.usdz; sourceTree = "<group>"; };
+		6B89B03B2915653F0046F059 /* 01.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 01.usdz; sourceTree = "<group>"; };
+		6B89B0452915742A0046F059 /* 06.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 06.usdz; sourceTree = "<group>"; };
+		6B89B047291574E40046F059 /* 04.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 04.usdz; sourceTree = "<group>"; };
 		6BEC66C8291527CF00C19248 /* ARGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BEC66CB291527CF00C19248 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6BEC66CD291527CF00C19248 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		6BEC66CF291527CF00C19248 /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
 		6BEC66D2291527CF00C19248 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		6BEC66D4291527D400C19248 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6BEC66D7291527D400C19248 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -57,8 +71,15 @@
 			children = (
 				6BEC66CB291527CF00C19248 /* AppDelegate.swift */,
 				6BEC66CD291527CF00C19248 /* ViewController.swift */,
-				6BEC66CF291527CF00C19248 /* Experience.rcproject */,
 				6BEC66D1291527CF00C19248 /* Main.storyboard */,
+				6B89B03B2915653F0046F059 /* 01.usdz */,
+				6B89B0362915653C0046F059 /* 02.usdz */,
+				6B89B03A2915653E0046F059 /* 03.usdz */,
+				6B89B047291574E40046F059 /* 04.usdz */,
+				6B89B0352915653B0046F059 /* 05.usdz */,
+				6B89B0452915742A0046F059 /* 06.usdz */,
+				6B89B0392915653E0046F059 /* 07.usdz */,
+				6B89B0382915653D0046F059 /* 08.usdz */,
 				6BEC66D4291527D400C19248 /* Assets.xcassets */,
 				6BEC66D6291527D400C19248 /* LaunchScreen.storyboard */,
 			);
@@ -123,9 +144,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6B89B042291565400046F059 /* 03.usdz in Resources */,
+				6B89B0462915742A0046F059 /* 06.usdz in Resources */,
+				6B89B03D291565400046F059 /* 05.usdz in Resources */,
 				6BEC66D8291527D400C19248 /* LaunchScreen.storyboard in Resources */,
+				6B89B041291565400046F059 /* 07.usdz in Resources */,
 				6BEC66D5291527D400C19248 /* Assets.xcassets in Resources */,
+				6B89B043291565400046F059 /* 01.usdz in Resources */,
+				6B89B048291574E40046F059 /* 04.usdz in Resources */,
+				6B89B040291565400046F059 /* 08.usdz in Resources */,
 				6BEC66D3291527CF00C19248 /* Main.storyboard in Resources */,
+				6B89B03E291565400046F059 /* 02.usdz in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +167,6 @@
 			files = (
 				6BEC66CE291527CF00C19248 /* ViewController.swift in Sources */,
 				6BEC66CC291527CF00C19248 /* AppDelegate.swift in Sources */,
-				6BEC66D0291527CF00C19248 /* Experience.rcproject in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
